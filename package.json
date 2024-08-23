@@ -1,0 +1,19 @@
+{
+  "name": "redux_project",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esraaalghabraa/react_redux.git"
+  },
+  "author": "Esraa Alghabra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esraaalghabraa/react_redux/issues"
+  },
+  "homepage": "https://github.com/esraaalghabraa/react_redux#readme"
+}
